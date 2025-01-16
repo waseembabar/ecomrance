@@ -1,0 +1,53 @@
+ body{
+    background-color: black;
+    color: white;
+ }
+.mainHeading{
+    color: red;
+    font-size: 0.98rem;
+    padding: 0px;
+    margin: 0px;
+}
+.heading{
+font-size: 1.6rem;
+font-weight: 700;
+padding: 0px;
+margin: 0px;
+}
+.MianBtn{
+    background-color: rgba(255, 0, 0, 0.623);
+    border: 0px;
+    border-radius: 10px;
+    font-size: 1rem;
+    color: white;
+   height: 40px;
+   width:200px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.CardHeading{
+    font-size: .9rem;
+    font-weight: 700;
+}
+.card-title{
+    font-size: 1rem;
+}
+.card i{
+    font-size: 0.8rem;
+    margin-bottom: 0px;
+}
+.card .price{
+    font-size: 0.85rem;
+    margin-bottom: 0px;
+
+}
+.card .card-text{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.card .itemsSell{
+    font-size: 0.85rem;
+    margin-bottom: 0px;
+
+}
