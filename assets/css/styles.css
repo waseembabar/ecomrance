@@ -51,3 +51,31 @@ margin: 0px;
     margin-bottom: 0px;
 
 }
+
+.IconsDiv{
+    display: flex;
+}
+.IconsDiv i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+   height: 30px;
+   width: 30px;
+     border-radius: 50%;
+}
+.IconsDiv .edit{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+}
+.IconsDiv .view{
+    background-color: rgb(0, 38, 255);
+    color: white;
+    font-size: 15px;
+}
+.IconsDiv .delete{
+    background-color: red;
+    color: white;
+    font-size: 15px;
+}
